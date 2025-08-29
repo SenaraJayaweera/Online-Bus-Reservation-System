@@ -21,7 +21,7 @@ A web-based application for easy bus management and booking. Users can view avai
 - Other: Axios for API calls, JWT for authentication
 
 # Installation
-1. Clone the repository: https://github.com/SenaraJayaweera/Online-Bus-Reservation-System.git
+1. Clone the repository: git clone https://github.com/SenaraJayaweera/Online-Bus-Reservation-System.git
 2. Navigate to the project directory: cd Online-Bus-Reservation-System
 3. Install backend dependencies:
 cd backend
